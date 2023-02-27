@@ -14,7 +14,7 @@ Our projects are hosted on Github and can be accessed by clicking on the links b
 
 Each project has its own README file that contains details about the project, its objectives, and the technologies used.
 
-## Technologies 👩‍💻
+## Technologies 💻
 
 We have worked on projects using various technologies, including:
 
@@ -38,4 +38,4 @@ Our team consists of the following seven members:
 
 ## Contact Us 🤝
 
-If you have any questions or would like to get in touch with us by sending a message to anyone of us on GitHub
+If you have any questions or would like to get in touch with us, send a message to anyone of us on GitHub.
