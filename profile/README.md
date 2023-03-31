@@ -9,7 +9,7 @@ Our projects are hosted on Github and can be accessed by clicking on the links b
 
 - [IBM Cognos Dashboards](https://github.com/NPower-JDA/Cognos-Dashboards)
 - [Microsoft Azure Presentation](https://github.com/NPower-JDA/Presentations)
-- [Python Project (Coming Soon!)](https://github.com/NPower-JDA)
+- [Python Project](https://github.com/NPower-JDA/World-Happiness-Report)
 
 
 Each project has its own README file that contains details about the project, its objectives, and the technologies used.
